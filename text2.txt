@@ -1,11 +1,6 @@
 I am text2 ! -- changed by Kavya again
-<<<<<<< HEAD
 I am changing new text at line 2-- harshita
 You add your text here ! 
 Now its time to change again ! adding new line
-=======
-I am adding new text at line 2-- harshita
-You add your text here ! -- kavya edited text of line3
 
->>>>>>> ae29cd1fd2c203c9c9cbcdfe5b833c593da01a56
 
